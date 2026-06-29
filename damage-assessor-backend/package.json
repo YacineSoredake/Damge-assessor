@@ -1,0 +1,25 @@
+{
+  "name": "damage-assessor-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": " backend — auth (Firebase) + assessments API base.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.10.0",
+    "firebase-admin": "^12.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "axios": "^1.7.2",
+    "multer": "^1.4.5-lts.1",
+    "form-data": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

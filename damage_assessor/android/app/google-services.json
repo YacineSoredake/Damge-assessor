@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760589109334",
+    "project_id": "damageassessor-a5748",
+    "storage_bucket": "damageassessor-a5748.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760589109334:android:96fc0532a41ba1b71c93f7",
+        "android_client_info": {
+          "package_name": "com.example.damage_assessor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMmcWNfbiCD3CdHVkgDH0CGYGsapKGLjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
